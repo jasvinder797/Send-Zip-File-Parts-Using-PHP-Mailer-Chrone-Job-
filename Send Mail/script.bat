@@ -1,0 +1,1 @@
+"D:\wamp64\bin\php\php5.6.25\php.exe" -f "D:\wamp64\www\split_and_mail\sendmail.php"
